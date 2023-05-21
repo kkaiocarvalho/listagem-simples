@@ -114,6 +114,22 @@ main .cartao-pokemon .tipo{
     background-color: pink;
 }
 
+.normal{
+    background-color: gray;
+}
+
+.eletrico{
+    background-color: rgb(219, 219, 64);
+}
+.sombrio{
+    background-color: #212121;
+    color: white;
+}
+
+.gelo{
+    background-color: #01fff2;
+}
+
 main .descricao{
     max-height: 80px;
     overflow-y: scroll;
